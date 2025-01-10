@@ -1,0 +1,15 @@
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\TPWinForm_equipo-H.exe.config
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\TPWinForm_equipo-H.exe
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\TPWinForm_equipo-H.pdb
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\Dominio.dll
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\Negocio.dll
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\Dominio.pdb
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\bin\Debug\Negocio.pdb
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo-H.csproj.AssemblyReference.cache
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo_H.frmArticulo.resources
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo_H.Properties.Resources.resources
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo-H.csproj.GenerateResource.cache
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo-H.csproj.CoreCompileInputs.cache
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinFor.3628CFFA.Up2Date
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo-H.exe
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\TPWinForm_equipo-H\obj\Debug\TPWinForm_equipo-H.pdb

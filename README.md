@@ -1,1 +1,0 @@
-# tp-winform-equipo-H

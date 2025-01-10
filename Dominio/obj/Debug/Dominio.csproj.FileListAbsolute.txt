@@ -1,0 +1,6 @@
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\Dominio\bin\Debug\Dominio.dll
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\Dominio\bin\Debug\Dominio.pdb
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\Dominio\obj\Debug\Dominio.dll
+C:\Users\gaston\Desktop\Proyecto.ExpUni\TPWinForm_equipo-H\Dominio\obj\Debug\Dominio.pdb

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8529937-50D8-4B4E-A6D2-300AB5AF8CB3}|Dominio\\Dominio.csproj|c:\\users\\gaston\\desktop\\proyecto.expuni\\tpwinform_equipo-h\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8529937-50D8-4B4E-A6D2-300AB5AF8CB3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7733145C-5C75-4305-A316-937CA2D56F76}|TPWinForm_equipo-H\\TPWinForm_equipo-H.csproj|C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\tpwinform_equipo-h\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7733145C-5C75-4305-A316-937CA2D56F76}|TPWinForm_equipo-H\\TPWinForm_equipo-H.csproj|solutionrelative:tpwinform_equipo-h\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7733145C-5C75-4305-A316-937CA2D56F76}|TPWinForm_equipo-H\\TPWinForm_equipo-H.csproj|C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\tpwinform_equipo-h\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7733145C-5C75-4305-A316-937CA2D56F76}|TPWinForm_equipo-H\\TPWinForm_equipo-H.csproj|solutionrelative:tpwinform_equipo-h\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7475DA3E-E188-4761-9BBA-3DFBFCCB5050}|Negocio\\Negocio.csproj|C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7475DA3E-E188-4761-9BBA-3DFBFCCB5050}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:25:18.779Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\TPWinForm_equipo-H\\Form1.cs",
+              "RelativeDocumentMoniker": "TPWinForm_equipo-H\\Form1.cs",
+              "ToolTip": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\TPWinForm_equipo-H\\Form1.cs",
+              "RelativeToolTip": "TPWinForm_equipo-H\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:04:16.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:37:23.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\TPWinForm_equipo-H\\Form1.cs",
+              "RelativeDocumentMoniker": "TPWinForm_equipo-H\\Form1.cs",
+              "ToolTip": "C:\\Users\\gaston\\Desktop\\Proyecto.ExpUni\\TPWinForm_equipo-H\\TPWinForm_equipo-H\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPWinForm_equipo-H\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:41:17.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
